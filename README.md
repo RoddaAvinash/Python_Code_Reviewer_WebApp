@@ -16,7 +16,7 @@ Python Code Reviewer is a web application built with Streamlit and OpenAI's GPT-
 1. Clone the repository:
 
     ```bash
-    
+    gh repo clone RoddaAvinash/Python_Code_Reviewer_WebApp
     ```
 
 2. Install dependencies:
